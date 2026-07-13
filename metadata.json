@@ -1,0 +1,6 @@
+{
+  "name": "Kotlin Basics",
+  "description": "An interactive Material 3 playground and code viewer demonstrating solutions for Kotlin Basics Module 3 assignment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
